@@ -1,0 +1,4 @@
+I have made app which render app with navbar and form
+I used React JS because I wanted to learn that framework and I wanted to create aplication with simple views for each state. 
+To navigation I wanted to use React-router, to persist data in session - React-presist. To make website responsively(also for mobiles) I wanted to use css media queries with breakpoint. 
+The exercise wasn't complete because I didn't predict the time correctly but I liked to create website with React JS and if I got more time I could make better website.
